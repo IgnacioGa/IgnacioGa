@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/ignacio-gallo-1b8992191/?locale=en_US)">
+    <a href="https://www.linkedin.com/in/ignacio-gallo-1b8992191/?locale=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
    </div>
@@ -28,4 +28,4 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-gallo-1b8992191/?locale=en_US)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url](https://www.linkedin.com/in/ignacio-gallo-1b8992191/?locale=en_US))
