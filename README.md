@@ -47,7 +47,7 @@
 ### :writing_hand: Personal Projects :
 <!-- BLOG-POST-LIST:START -->
 **Calendar App**  
-*Clendar Page* -> https://calendar-site.onrender.com/  
+*Calendar Page* -> https://calendar-site.onrender.com/  
 *Frontend Repository* -> https://github.com/IgnacioGa/calendar_react  
 *API Repository* -> https://github.com/IgnacioGa/calendar_v2
 <!-- BLOG-POST-LIST:END -->
