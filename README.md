@@ -50,4 +50,8 @@
 *Calendar Page* -> https://calendar-site.onrender.com/  
 *Frontend Repository* -> https://github.com/IgnacioGa/calendar_react  
 *API Repository* -> https://github.com/IgnacioGa/calendar_v2
+
+**Game App**  
+*Frontend Repository* -> https://github.com/IgnacioGa/game_front  
+*API Repository* -> https://github.com/IgnacioGa/game_api
 <!-- BLOG-POST-LIST:END -->
