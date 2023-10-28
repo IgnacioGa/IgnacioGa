@@ -46,6 +46,9 @@
 
 ### :writing_hand: Personal Projects :
 <!-- BLOG-POST-LIST:START -->
+**Share Travel Blog**  
+*FullStack NextJs Repository* -> https://github.com/IgnacioGa/sharetravel
+
 **Calendar App**  
 *Calendar Page* -> https://calendar-site.onrender.com/  
 *Frontend Repository* -> https://github.com/IgnacioGa/calendar_react  
